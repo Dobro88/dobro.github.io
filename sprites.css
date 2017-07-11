@@ -1,0 +1,64 @@
+.f, .v, .📷, .vk-white, .inst-white, .fb-white, .User-copy 2, .Locked-2, ..icon-login-active, .cross{
+	background: url(sprites.png) no-repeat;
+}
+
+.f{
+	background-position: -3px -2px ;
+	width: 43px;
+	height: 43px;
+}
+
+.v{
+	background-position: -2px -52px ;
+	width: 43px;
+	height: 43px;
+}
+
+.📷{
+	background-position: -1px -103px ;
+	width: 43px;
+	height: 43px;
+}
+
+.vk-white{
+	background-position: -2px -153px ;
+	width: 43px;
+	height: 43px;
+}
+
+.inst-white{
+	background-position: -1px -204px ;
+	width: 43px;
+	height: 43px;
+}
+
+.fb-white{
+	background-position: -2px -252px ;
+	width: 43px;
+	height: 43px;
+}
+
+.User-copy 2{
+	background-position: -65px -17px ;
+	width: 15px;
+	height: 15px;
+}
+
+.Locked-2{
+	background-position: -64px -66px ;
+	width: 15px;
+	height: 17px;
+}
+
+..icon-login-active{
+	background-position: -64px -114px ;
+	width: 18px;
+	height: 16px;
+}
+
+.cross{
+	background-position: -63px -166px ;
+	width: 23px;
+	height: 23px;
+}
+
